@@ -1,0 +1,6 @@
+{
+  "name": "Pipoca Doce Sabor",
+  "description": "Site oficial da Pipoca Doce Sabor: aluguel de barraquinha completa com pipoca fresquinha, churros deliciosos e batatas saborosas para festas e eventos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
